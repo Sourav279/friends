@@ -1,0 +1,16 @@
+h1 {
+    position: relative;
+     text-transform: uppercase;
+    font-weight: 900;
+    font-family: 'Catamaran', sans-serif;
+    font-style: italic;
+}
+h3{
+        font-family: Times New Roman, serif;
+        font-weight: 400;
+        background: linear-gradient(#fffecb, #ff9999);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+        background-clip: text;
+        letter-spacing: -0.001vw;
+}
